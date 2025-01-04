@@ -7,7 +7,7 @@ custom_footnotes: nada
 show_icons_navbar: true
 link_to_github_repo: true
 search_enabled: true
-auto_page_title: true
+auto_page_title: false
 show_global_footnotes:  true
 show_title: true
 show_last_update_datetime: true
