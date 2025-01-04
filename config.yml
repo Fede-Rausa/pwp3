@@ -1,0 +1,19 @@
+remote_theme: Fede-Rausa/SeriousSidebarJekyll@main
+
+title: Serious Sidebar Jekyll Theme
+version: false
+custom_footnotes: nada
+
+show_icons_navbar: true
+link_to_github_repo: true
+search_enabled: true
+auto_page_title: true
+show_global_footnotes:  true
+show_title: true
+show_last_update_datetime: true
+show_version: false
+show_custom_footnotes: false
+
+sidebar:
+  - label: prime
+  - label: Customization
